@@ -60,7 +60,7 @@ if __name__ == "__main__":
     tree.left = TreeNode(3,None,None)
     tree.right.right = TreeNode(9, None, None)
     tree.left.left = TreeNode(5, None, None)
-    tree.left.left = TreeNode(3, None, None)
+    tree.left.right = TreeNode(3, None, None)
     largeValues = Solution()
     largeValuesArr = largeValues.findLargestValues(tree)
     print(largeValuesArr)
