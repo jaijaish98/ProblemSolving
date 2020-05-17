@@ -47,3 +47,4 @@ class Solution:
 if __name__ == "__main__":
     histogram = Solution()
     print(histogram.largestRectangleArea([2, 1, 5, 6, 2, 3]))
+
