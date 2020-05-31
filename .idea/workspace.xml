@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3df32395-bdd9-4c1f-99d0-97f3fa09fa0c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BinaryTreePruning.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_tree_pruning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConstructBSTFromPreOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/construct_bst_from_preorder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConvertSortedArrayToBST.py" beforeDir="false" afterPath="$PROJECT_DIR$/convert_sorted_array_to_bst.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CousinsInBinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/cousins_in_binary_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DiameterOfBinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/diameter_of_binary_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindLargestValueInEachRowOfBinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/find_largest_value_in_each_row_of_binary_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IncreasingOrderSearchTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/increasing_order_search_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InvertBinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/invert_binary_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IsBinaryTreeIsBST.py" beforeDir="false" afterPath="$PROJECT_DIR$/is_binary_tree_is_bst.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KthSmallestValueInBST.py" beforeDir="false" afterPath="$PROJECT_DIR$/kth_smallest_value_in_bst.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LCA_In_BinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/lca_in_binary_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaxWidthOfBinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/max_width_of_binary_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RangeSumInBST.py" beforeDir="false" afterPath="$PROJECT_DIR$/range_sum_in_bst.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RightViewOfBinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/right_view_of_binary_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TopViewOfBinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/top_view_of_binary_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UniValuedBinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/uni_valued_binary_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VerticalSumOfBinaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/vertical_sum_of_binary_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DP_edit_distance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/jayen_9063.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/jayen_9063.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,91 +15,37 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/increasing_order_search_tree.py">
+        <entry file="file://$PROJECT_DIR$/pseudo_palindromic_paths_in_binary_tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="596">
-              <caret line="66" selection-start-line="66" selection-end-line="76" selection-end-column="30" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="13" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/invert_binary_tree.py">
+        <entry file="file://$PROJECT_DIR$/maximum_number_of_vowels_in_substring_of_given_length.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="41" selection-start-line="41" selection-end-line="49" selection-end-column="23" />
+            <state relative-caret-position="1173">
+              <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/is_binary_tree_is_bst.py">
+        <entry file="file://$PROJECT_DIR$/count_good_nodes_in_binary_tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="721">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kth_smallest_value_in_bst.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="806">
-              <caret line="66" column="37" selection-start-line="66" selection-start-column="37" selection-end-line="66" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lca_in_binary_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
-              <caret line="47" selection-start-line="47" selection-end-line="52" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/range_sum_in_bst.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/right_view_of_binary_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="789">
-              <caret line="52" selection-start-line="52" selection-end-line="57" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/top_view_of_binary_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="55" selection-start-line="55" selection-end-line="60" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vertical_sum_of_binary_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="46" selection-start-line="46" selection-end-line="51" selection-end-column="45" />
+            <state relative-caret-position="799">
+              <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/max_width_of_binary_tree.py">
+        <entry file="file://$PROJECT_DIR$/DP_edit_distance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="91" column="46" selection-start-line="91" selection-start-column="46" selection-end-line="91" selection-end-column="46" />
+            <state relative-caret-position="952">
+              <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -133,33 +65,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BinaryTreePruning.py" />
-        <option value="$PROJECT_DIR$/RangeSumInBST.py" />
-        <option value="$PROJECT_DIR$/UniValuedBinaryTree.py" />
-        <option value="$PROJECT_DIR$/ConstructBSTFromPreOrder.py" />
-        <option value="$PROJECT_DIR$/IncreasingOrderSearchTree.py" />
-        <option value="$PROJECT_DIR$/CousinsInBinaryTree.py" />
-        <option value="$PROJECT_DIR$/ConvertSortedArrayToBST.py" />
-        <option value="$PROJECT_DIR$/IsBinaryTreeIsBST.py" />
-        <option value="$PROJECT_DIR$/LCA_In_BinaryTree.py" />
-        <option value="$PROJECT_DIR$/RightViewOfBinaryTree.py" />
-        <option value="$PROJECT_DIR$/TopViewOfBinaryTree.py" />
-        <option value="$PROJECT_DIR$/InvertBinaryTree.py" />
-        <option value="$PROJECT_DIR$/KthSmallestValueInBST.py" />
         <option value="$PROJECT_DIR$/FindLargestValueInEachRowOfBinaryTree.py" />
         <option value="$PROJECT_DIR$/DiameterOfBinaryTree.py" />
         <option value="$PROJECT_DIR$/VerticalSumOfBinaryTree.py" />
         <option value="$PROJECT_DIR$/WidthOfBinartTree.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/ProblemSolving.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/distance_btwn_two_nodes_in_binary_tree.py" />
+        <option value="$PROJECT_DIR$/construct_binary_tree_from_inorder_and_postorder.py" />
+        <option value="$PROJECT_DIR$/construct_binary_tree_from_inorder_and_preorder.py" />
+        <option value="$PROJECT_DIR$/min_depth_of_binary_tree.py" />
+        <option value="$PROJECT_DIR$/find_the_down_judge.py" />
+        <option value="$PROJECT_DIR$/next_greater_element_1.py" />
+        <option value="$PROJECT_DIR$/max_sub_array_sum_1.py" />
+        <option value="$PROJECT_DIR$/two_sum_in_array.py" />
+        <option value="$PROJECT_DIR$/add_two_linked_list.py" />
+        <option value="$PROJECT_DIR$/climbing_stairs_DP.py" />
+        <option value="$PROJECT_DIR$/single_element_in_sorted_array.py" />
+        <option value="$PROJECT_DIR$/remove_k_digits_to_make_a_number_smaller.py" />
+        <option value="$PROJECT_DIR$/single_non_duplicate_in_array.py" />
+        <option value="$PROJECT_DIR$/intersection_of_two_arrays.py" />
+        <option value="$PROJECT_DIR$/kth_largest_smallest_in_array.py" />
+        <option value="$PROJECT_DIR$/sort_colours_red_white_blue_in_array.py" />
+        <option value="$PROJECT_DIR$/maximum_product_of_three_numbers.py" />
+        <option value="$PROJECT_DIR$/triplete_square_in_array.py" />
+        <option value="$PROJECT_DIR$/triplet_square_in_array.py" />
+        <option value="$PROJECT_DIR$/implement_trie.py" />
+        <option value="$PROJECT_DIR$/best_time_to_buy_and_sell.py" />
+        <option value="$PROJECT_DIR$/paint_square.py" />
+        <option value="$PROJECT_DIR$/DP_min_cost_to_climb_stairs.py" />
+        <option value="$PROJECT_DIR$/permutation_string_is_s1_in_s2.py" />
+        <option value="$PROJECT_DIR$/DP_knapsack_problem.py" />
+        <option value="$PROJECT_DIR$/DP_number_of_ways_to_decode_string.py" />
+        <option value="$PROJECT_DIR$/water_jug_problem_using_gcd.py" />
+        <option value="$PROJECT_DIR$/largest_rectangle_area_in_histogram.py" />
+        <option value="$PROJECT_DIR$/DP_maximum_rectangle_area_with_ones_in_2D_binary_matrix.py" />
+        <option value="$PROJECT_DIR$/find_target_in_sorted_rotated_array_logN.py" />
+        <option value="$PROJECT_DIR$/merge_intervals.py" />
+        <option value="$PROJECT_DIR$/odd_even_linkedlist.py" />
+        <option value="$PROJECT_DIR$/find_all_anagrams_in_string.py" />
+        <option value="$PROJECT_DIR$/SLL_intersection_node_of_two_linked_list.py" />
+        <option value="$PROJECT_DIR$/SLL_reverse_singly_linked_list.py" />
+        <option value="$PROJECT_DIR$/SLL_pallindrome_linked_list.py" />
+        <option value="$PROJECT_DIR$/online_stock_span.py" />
+        <option value="$PROJECT_DIR$/minimum_no_of_steps_to_make_two_strings_anagram.py" />
+        <option value="$PROJECT_DIR$/count_square_submatrices_with_all_ones.py" />
+        <option value="$PROJECT_DIR$/is_binary_tree_is_bst.py" />
+        <option value="$PROJECT_DIR$/sort_characters_by_frequency.py" />
+        <option value="$PROJECT_DIR$/CLL_killing_neighbour.py" />
+        <option value="$PROJECT_DIR$/loop_detection_in_linked_list.py" />
+        <option value="$PROJECT_DIR$/pseudo_palindromic_paths_in_binary_tree.py" />
+        <option value="$PROJECT_DIR$/maximum_number_of_vowels_in_substring_of_given_length.py" />
+        <option value="$PROJECT_DIR$/count_good_nodes_in_binary_tree.py" />
+        <option value="$PROJECT_DIR$/DP_edit_distance.py" />
       </list>
     </option>
   </component>
@@ -191,7 +147,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ConstructBSTFromPreOrder.py" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/paint_square.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -205,8 +162,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.WidthOfBinartTree">
-    <configuration name="DiameterOfBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.DP_edit_distance">
+    <configuration name="DP_edit_distance" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProblemSolving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,91 +175,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Jayendran\ProblemSolving\diameter_of_binary_tree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="FindLargestValueInEachRowOfBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ProblemSolving" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Jayendran\ProblemSolving\find_largest_value_in_each_row_of_binary_tree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="KthSmallestValueInBST" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ProblemSolving" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Jayendran\ProblemSolving\kth_smallest_value_in_bst.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="VerticalSumOfBinaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ProblemSolving" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Jayendran\ProblemSolving\vertical_sum_of_binary_tree.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="WidthOfBinartTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ProblemSolving" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Jayendran\ProblemSolving\max_width_of_binary_tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP_edit_distance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,21 +205,127 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="count_good_nodes_in_binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProblemSolving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/count_good_nodes_in_binary_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loop_detection_in_linked_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProblemSolving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop_detection_in_linked_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="maximum_number_of_vowels_in_substring_of_given_length" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProblemSolving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maximum_number_of_vowels_in_substring_of_given_length.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="paint_square" type="PythonConfigurationType" factoryName="Python">
+      <module name="ProblemSolving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jayen-9063\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paint_square.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pseudo_palindromic_paths_in_binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProblemSolving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pseudo_palindromic_paths_in_binary_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.bstPre" />
-      <item itemvalue="Python.KthSmallestValueInBST" />
-      <item itemvalue="Python.FindLargestValueInEachRowOfBinaryTree" />
-      <item itemvalue="Python.DiameterOfBinaryTree" />
-      <item itemvalue="Python.VerticalSumOfBinaryTree" />
-      <item itemvalue="Python.WidthOfBinartTree" />
+      <item itemvalue="Python.paint_square" />
+      <item itemvalue="Python.loop_detection_in_linked_list" />
+      <item itemvalue="Python.pseudo_palindromic_paths_in_binary_tree" />
+      <item itemvalue="Python.maximum_number_of_vowels_in_substring_of_given_length" />
+      <item itemvalue="Python.count_good_nodes_in_binary_tree" />
+      <item itemvalue="Python.DP_edit_distance" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.WidthOfBinartTree" />
-        <item itemvalue="Python.VerticalSumOfBinaryTree" />
-        <item itemvalue="Python.DiameterOfBinaryTree" />
-        <item itemvalue="Python.FindLargestValueInEachRowOfBinaryTree" />
-        <item itemvalue="Python.KthSmallestValueInBST" />
+        <item itemvalue="Python.DP_edit_distance" />
+        <item itemvalue="Python.count_good_nodes_in_binary_tree" />
+        <item itemvalue="Python.maximum_number_of_vowels_in_substring_of_given_length" />
+        <item itemvalue="Python.pseudo_palindromic_paths_in_binary_tree" />
+        <item itemvalue="Python.loop_detection_in_linked_list" />
       </list>
     </recent_temporary>
   </component>
@@ -365,14 +344,31 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24966975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
@@ -380,128 +376,359 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/uni_valued_binary_tree.py">
+    <entry file="file://$PROJECT_DIR$/distance_btwn_two_nodes_in_binary_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="33" selection-start-line="33" selection-end-line="42" selection-end-column="42" />
+        <state relative-caret-position="816">
+          <caret line="48" selection-start-line="48" selection-end-line="53" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/binary_tree_pruning.py">
+    <entry file="file://$PROJECT_DIR$/construct_binary_tree_from_inorder_and_postorder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="32" selection-start-line="32" selection-end-line="42" selection-end-column="34" />
+        <state relative-caret-position="918">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/construct_bst_from_preorder.py">
+    <entry file="file://$PROJECT_DIR$/construct_binary_tree_from_inorder_and_preorder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="782">
+          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/convert_sorted_array_to_bst.py">
+    <entry file="file://$PROJECT_DIR$/min_depth_of_binary_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cousins_in_binary_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="619">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="68" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/diameter_of_binary_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/find_largest_value_in_each_row_of_binary_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="851">
-          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/increasing_order_search_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="596">
-          <caret line="66" selection-start-line="66" selection-end-line="76" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/invert_binary_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="41" selection-start-line="41" selection-end-line="49" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/is_binary_tree_is_bst.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="721">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kth_smallest_value_in_bst.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="66" column="37" selection-start-line="66" selection-start-column="37" selection-end-line="66" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lca_in_binary_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="47" selection-start-line="47" selection-end-line="52" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/range_sum_in_bst.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        <state relative-caret-position="1037">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/right_view_of_binary_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
+        <state relative-caret-position="884">
           <caret line="52" selection-start-line="52" selection-end-line="57" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/top_view_of_binary_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
+        <state relative-caret-position="935">
           <caret line="55" selection-start-line="55" selection-end-line="60" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vertical_sum_of_binary_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="782">
           <caret line="46" selection-start-line="46" selection-end-line="51" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/max_width_of_binary_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
+        <state relative-caret-position="1547">
           <caret line="91" column="46" selection-start-line="91" selection-start-column="46" selection-end-line="91" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_the_down_judge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/max_sub_array_sum_1.py" />
+    <entry file="file://$PROJECT_DIR$/two_sum_in_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/add_two_linked_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/climbing_stairs_DP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single_non_duplicate_in_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intersection_of_two_arrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kth_largest_smallest_in_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sort_colours_red_white_blue_in_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maximum_product_of_three_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/triplet_square_in_array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trie_implementation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/remove_k_digits_to_make_a_number_smaller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paint_square.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP_min_cost_to_climb_stairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/permutation_string_is_s1_in_s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="52" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP_knapsack_problem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP_number_of_ways_to_decode_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/water_jug_problem_using_gcd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odd_even_linkedlist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/largest_rectangle_area_in_histogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP_maximum_rectangle_area_with_ones_in_2D_binary_matrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_target_in_sorted_rotated_array_logN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merge_intervals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/find_all_anagrams_in_string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLL_intersection_node_of_two_linked_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-662">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/next_greater_element_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLL_reverse_singly_linked_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/online_stock_span.py" />
+    <entry file="file://$PROJECT_DIR$/sort_characters_by_frequency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="56" column="22" lean-forward="true" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cousins_in_binary_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CLL_killing_neighbour.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loop_detection_in_linked_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/construct_bst_from_preorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/is_binary_tree_is_bst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="59" column="20" lean-forward="true" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/best_time_to_buy_and_sell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count_square_submatrices_with_all_ones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="56" column="54" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minimum_no_of_steps_to_make_two_strings_anagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SLL_pallindrome_linked_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="38" lean-forward="true" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maximum_number_of_vowels_in_substring_of_given_length.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pseudo_palindromic_paths_in_binary_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count_good_nodes_in_binary_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP_edit_distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
         </state>
       </provider>
     </entry>
