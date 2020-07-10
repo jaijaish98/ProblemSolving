@@ -123,7 +123,7 @@ class Solution:
             else:
                 result.append(None)
         result = self.remove_trailing_null(result)
-        return result
+        print(result)
 
 
     @staticmethod
@@ -132,7 +132,7 @@ class Solution:
         while head is not None:
             result.append(head.val)
             head = head.next
-        return result
+        print(result)
 
 
 if __name__ == "__main__":
@@ -149,6 +149,6 @@ if __name__ == "__main__":
     eleven = eight.child = Node(val=11)
     twelve = eleven.next = Node(val=12)
     obj = Solution()
-    print(obj.print_multilevel_doubly_linked_list(head))
+    obj.print_multilevel_doubly_linked_list(head)
     obj.flatten(head)
-    print(obj.print_doubly_linked_list(head))
+    obj.print_doubly_linked_list(head)
