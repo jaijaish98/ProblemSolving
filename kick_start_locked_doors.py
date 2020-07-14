@@ -76,7 +76,7 @@ In the third query, Bangle takes pictures in the rooms in the order 1, 2, 3, 4 a
 In the fourth query, Bangle takes pictures in the rooms in the order 4, 3, 2, 5, and 1, so the answer is 2.
 
 In sample case #2, there are two queries:
-In the first query, Bangle takes pictures in the rooms in the order 6, 5, 4, 3, 2, 1, 7, 8, 9 and 10, so the answer is 8.
+In the first query, Bangle takes pictures in the rooms in the order 6, 5, 4, 3, 2, 1, 7, 8, 9 and 10, so the answer is 8
 The second query is the same as the first, so the answer is also 8.
 """
 
