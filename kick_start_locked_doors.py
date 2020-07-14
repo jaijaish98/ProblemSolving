@@ -1,16 +1,33 @@
 """
 Problem
-Bangles is preparing to go on a tour of her local museum. The museum is made up of N rooms in a row, numbered from 1 to N from left to right. The rooms are connected by N-1 locked doors, each connecting a pair of adjacent rooms. Each door has a difficulty level indicating how difficult it is for Bangles to open the door. No two doors will have the same difficulty level. The door between the i-th room and (i+1)-th room has difficulty level Di.
+Bangles is preparing to go on a tour of her local museum. The museum is made up of N rooms in a row,
+numbered from 1 to N from left to right. The rooms are connected by N-1 locked doors,
+each connecting a pair of adjacent rooms.
+Each door has a difficulty level indicating how difficult it is for Bangles to open the door.
+No two doors will have the same difficulty level.
+The door between the i-th room and (i+1)-th room has difficulty level Di.
 
-Bangles will pick one of the rooms to start in, and visit each of the rooms in the museum one at a time, taking pictures as she goes. She takes a picture in her starting room, then she repeats the following procedure until she has taken a picture in all the rooms: Of the two locked doors available to her, she will open the door with the lower difficulty level and take a picture in the newly unlocked room. If there is only one locked door available to her, then she will unlock that door. Once a door is unlocked, it remains unlocked.
+Bangles will pick one of the rooms to start in, and visit each of the rooms in the museum one at a time,
+taking pictures as she goes. She takes a picture in her starting room,
+then she repeats the following procedure until she has taken a picture in all the rooms:
+Of the two locked doors available to her,
+she will open the door with the lower difficulty level and take a picture in the newly unlocked room.
+If there is only one locked door available to her, then she will unlock that door.
+ Once a door is unlocked, it remains unlocked.
 
-Bangles is not yet sure which room she would like to start in, so she needs you to answer Q queries. For the i-th query, she would like to know: What is the Ki-th room that she will take a picture in if she starts in the Si-th room?
+Bangles is not yet sure which room she would like to start in,
+so she needs you to answer Q queries. For the i-th query,
+she would like to know: What is the Ki-th room that she will take a picture in if she starts in the Si-th room?
 
 Input
-The first line of the input gives the number of test cases, T. T test cases follow. The first line of each test case contains the two integers N and Q. The second line contains N-1 integers, describing the locked doors. The i-th integer (starting from 1) is Di. Then, Q lines follow, describing the queries. The i-th of these lines contains the two integers Si and Ki.
+The first line of the input gives the number of test cases, T. T test cases follow.
+The first line of each test case contains the two integers N and Q. The second line contains N-1 integers,
+describing the locked doors. The i-th integer (starting from 1) is Di. Then, Q lines follow, describing the queries.
+The i-th of these lines contains the two integers Si and Ki.
 
 Output
-For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is a list of the answers for the Q queries in order, separated by spaces.
+For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1)
+and y is a list of the answers for the Q queries in order, separated by spaces.
 
 Limits
 Time limit: 40 seconds per test set.
@@ -68,6 +85,7 @@ import copy
 
 class Node:
     ddd = {}
+
     def __init__(self, val, left=None, right=None, lval=0, rval=0):
         self.val = val
         self.left = left
@@ -93,16 +111,16 @@ for i in range(tc):
     doors = list(map(int, input().split()))
     res = []
     dObj = DDD()
-    head = Node(1,lval=float("inf"), rval=doors[0])
+    head = Node(1, lval=float("inf"), rval=doors[0])
     prev = head
     dObj.store_node(1, head)
-    for j in range(2,n+1):
+    for j in range(2, n + 1):
         curr = Node(val=j, left=prev, right=None, lval=prev.rval)
-        dObj.store_node(j,curr)
-        if j==n:
+        dObj.store_node(j, curr)
+        if j == n:
             curr.rval = float("inf")
         else:
-            curr.rval = doors[j-1]
+            curr.rval = doors[j - 1]
         prev.right = curr
         prev = curr
 
@@ -113,7 +131,7 @@ for i in range(tc):
         curr = copy.deepcopy(currN)
         while curr is not None:
             result.append(curr.val)
-            if (curr.lval==float("inf") and curr.rval==float("inf")) or (curr.left is None and curr.right is None):
+            if (curr.lval == float("inf") and curr.rval == float("inf")) or (curr.left is None and curr.right is None):
                 curr = None
             elif curr.lval < curr.rval:
                 temp = curr
@@ -129,5 +147,5 @@ for i in range(tc):
                 curr.lval = temp.lval
                 if curr.left is not None:
                     curr.left.right = temp.right
-        res.append(result[k-1])
-    print("Case #{}:".format(i + 1),*res, sep=' ')
+        res.append(result[k - 1])
+    print("Case #{}:".format(i + 1), *res, sep=' ')
